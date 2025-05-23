@@ -37,7 +37,7 @@
   <ItemGroup>
     <PackageReference Include="Tizen.NET" Version="3.0.0" />
     <PackageReference Include="Tizen.NET.Sdk" Version="1.0.1" />
-    <PackageReference Include="Xamarin.Forms.Platform.Tizen" Version="2.3.5-r256-001" />
+    <PackageReference Include="Xamarin.Forms.Platform.Tizen" Version="2.4.0.18342" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TFLiteSharp\TFLiteSharp\TFLiteSharp.csproj" />
